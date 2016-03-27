@@ -1,0 +1,110 @@
+body {
+  /*background-image: url("main.jpg");*/
+  /*background-color: #4df0f9;*/
+  /*background-color: #ff0067;*/
+}
+
+#signup {
+  width:30%;
+  height: 10vw;
+  font-size: 2rem;
+  font-height: 2rem;
+  color: white;
+  margin-left: 60%;
+  margin-top: 20%;
+}
+
+.btn-hldr {
+  width: 100%;
+  text-align: center;
+}
+
+.acd {
+    font-size: 50px;
+    font-weight: 700;
+    font-family: verdana;
+    letter-spacing: -19px;
+    color: #ff0067;
+    text-align: center;
+}
+
+
+.section-head {
+  text-align: center;
+  font-size: 5rem;
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 800;
+  color: #ff0067;
+  margin: 0px 0px 0px 0px;
+}
+
+#about {
+  width: 75%;
+  /*height: 50%;*/
+  background-color: #4df0f9;
+  margin: 0 auto;
+  padding-top: 1.5%;
+  position: absolute;
+  top: 90%;
+  left: 12.5%;
+  z-index: -1;
+  text-align: center;
+}
+
+#navbar {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #4df0f9;
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  height: 5%;
+  margin: 0 auto;
+  background-color: #ff0067;
+  padding: 2rem;
+}
+
+#tinker-img {
+  width: 75%;
+  height: auto;
+  margin-top: 10%;
+}
+
+#tagline {
+  font-size: 2rem;
+  position: absolute;
+  color: #4df0f9;
+  top: 22vw;
+  left: 30vw;
+}
+
+#main-logo-hldr {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 700;
+  /*position: fixed;*/
+}
+
+#main-logo-hldr > button {
+  font-family: 'Oxygen', sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: #4df0f9;
+  color: white;
+  box-shadow: none;
+  border: none;
+  margin-top: 7%;
+  margin-bottom: 20%;
+}
+
+#main-logo {
+  width: 100%;
+  height: auto;
+}
